@@ -20,8 +20,8 @@ Exp3 - Email Ham and Spam Classification
 ## Running the Code
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ISRajesh183/MLLabA2.git
-    cd MLLabA2
+    git clone https://github.com/ISRajesh183/MLLabA3.git
+    cd MLLabA3
     ```
 2. Install dependencies:
     ```bash
