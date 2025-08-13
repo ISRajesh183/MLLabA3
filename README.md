@@ -1,5 +1,5 @@
-# MLLabA2
-Exp2 - Email Ham and Spam Classification
+# MLLabA3
+Exp3 - Email Ham and Spam Classification
 
 ## Libraries Used
 - numpy
